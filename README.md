@@ -27,6 +27,6 @@ Le rapport de stage complet détaillant les choix mathématiques, l'analyse de c
 ## 🖼️ Exemples de Résultats
 
 ### 1. Recherche textuelle (ex: *"a dog in the sea"*)
-![Résultat : ](Screenshot 2026-07-14 180842)
+![Résultat : ](dog.png)
 
 
