@@ -23,3 +23,10 @@ Le système repose sur le modèle de fondation **CLIP** (*Contrastive Language-I
 
 ## 📄 Rapport de Stage
 Le rapport de stage complet détaillant les choix mathématiques, l'analyse de complexité algorithmique, l'architecture logicielle et les perspectives d'amélioration est disponible dans le dépôt sous le nom de **`RAPPORT DE STAGE.pdf`**.
+
+## 🖼️ Exemples de Résultats
+
+### 1. Recherche textuelle (ex: *"a dog in the sea"*)
+![Résultat : ](Screenshot 2026-07-14 180842)
+
+
